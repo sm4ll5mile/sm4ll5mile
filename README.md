@@ -5,7 +5,7 @@
 - 👀 I’m interested in Automation, Data Analytics and AI
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Open source projects, no matter the nature
-- 📫 Ask me about anything <a href="almerindo.uazela@outlook.com">here</a>
+- 📫 Ask me about anything <a href="mailto:almerindo.uazela@outlook.com">here</a>
 <br />
 
 ### Connect with me:
