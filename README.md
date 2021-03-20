@@ -39,14 +39,20 @@
 
 
 ---
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5milet" />
+
+<br/>
 
 <summary>:zap: GitHub Stats</summary>
-<div style="width: 100%; overflow: hidden;">
+ <div style="width: 100%; overflow: hidden;">
      <div style="width: 600px; float: left;">
-        <img align="left" alt="sm4ll5mile's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true&theme=radical" />
-    </div>
+      <img alt="sm4ll5mile's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true"/>
+     </div>
      <div style="margin-left: 620px;">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
+      <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&layout=compact"/>
+     </div>
 </div>
+
+
+
 
