@@ -39,20 +39,11 @@
 
 
 ---
-
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&hide_border=true"/>
-
-<br/>
-
-<summary>:zap: GitHub Stats</summary>
- <div style="width: 100%; overflow: hidden;">
-     <div style="width: 600px; float: left;" padding-top="5">
-      <img alt="GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true"/>
-     </div>
-     <div style="margin-left: 620px;" padding-top="5">
-      <img alt="Streak Stats" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5mile&hide_border=true"/>
-     </div>
-</div>
+#### Top used languages
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&hide_border=true"/><br/>
+#### Stats
+<img alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true"/><br/>
+<img alt="Streak Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5mile&hide_border=true"/><br/>
 
 
 
