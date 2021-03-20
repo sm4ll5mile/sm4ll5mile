@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Almerindo
+ ### 👋 Hi there, I’m Almerindo aka sm4ll5mile
+ [![Twitter Follow](https://img.shields.io/twitter/follow/sm4ll5mile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsm4ll5mile&screen_name=codeSTACKr)
+ 
+
 - 👀 I’m interested in Automation, Data Analytics and AI
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Open source projects, no matter the nature
