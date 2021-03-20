@@ -12,7 +12,7 @@
 ### Connect with me:
 <a href="https://twitter.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
 <a href="https://www.instagram.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
-<a href="www.linkedin.com/in/almerindouazela" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
+<a href="https://www.linkedin.com/in/almerindouazela" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>
 <br />
 
 
