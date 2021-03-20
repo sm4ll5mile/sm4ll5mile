@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlmerindoUazela
+- 👋 Hi, I’m @Almerindo
 - 👀 I’m interested in Automation, Data Analytics and AI
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Open source projects, no matter the nature
