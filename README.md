@@ -1,4 +1,7 @@
+ ![Hi there, I’m Almerindo aka sm4ll5mile](https://github.com/sm4ll5mile/sm4ll5mile/blob/main/github_banner.png?raw=true)
+ 
  ### 👋 Hi there, I’m Almerindo aka sm4ll5mile
+ ![Profile views](https://gpvc.arturio.dev/sm4ll5mile)  
  [![Twitter Follow](https://img.shields.io/twitter/follow/sm4ll5mile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsm4ll5mile&screen_name=sm4ll5mile)
  
 
@@ -9,7 +12,7 @@
 
 <br />
 
-### Connect with me:
+### Keep in touch:
 <a href="https://twitter.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
 <a href="https://www.instagram.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
 <a href="https://www.linkedin.com/in/almerindouazela" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>
@@ -38,13 +41,12 @@
 ---
 
 <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="sm4ll5mile's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true&theme=radical" />
-
-
-
-<!---
-AlmerindoUazela/AlmerindoUazela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;">
+        <img align="left" alt="sm4ll5mile's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true&theme=radical" />
+    </div>
+     <div style="margin-left: 620px;">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+</div>
 
