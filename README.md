@@ -1,5 +1,5 @@
  ### 👋 Hi there, I’m Almerindo aka sm4ll5mile
- [![Twitter Follow](https://img.shields.io/twitter/follow/sm4ll5mile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsm4ll5mile&screen_name=codeSTACKr)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/sm4ll5mile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsm4ll5mile&screen_name=sm4ll5mile)
  
 
 - 👀 I’m interested in Automation, Data Analytics and AI
@@ -10,14 +10,13 @@
 <br />
 
 ### Connect with me:
-<a href="https://twitter.com/sm4ll5mile"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
-<a href="https://www.instagram.com/sm4ll5mile"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
-<a href="www.linkedin.com/in/almerindouazela"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
+<a href="https://twitter.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
+<a href="https://www.instagram.com/sm4ll5mile" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
+<a href="www.linkedin.com/in/almerindouazela" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
 <br />
 
 
 ### Languages and Tools:
-
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1616233850~hmac=89565569f357e5d2966def4d405f0ab1" />
 <img align="left" alt="c#" width="26px" src="https://img2.pngdownload.id/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="VBA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" />
