@@ -39,16 +39,11 @@
 
 
 ---
-#### Top used languages
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile&hide_border=true"/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true)  
 
-#### Stats
-<img alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true&hide_border=true"/><br/>
-
-
-
-<img alt="Streak Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5mile&hide_border=true"/><br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5mile)  
 
 
 
